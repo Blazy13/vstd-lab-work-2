@@ -60,7 +60,6 @@ void show_menu() {
   cout << "1. " << DOUBLE_X << endl;
   cout << "2. " << X_POW_2 << endl;
   cout << "3. " << X_DIVIDE_3 << endl;
-  cout << "0. Выход" << endl;
 }
 
 void show_selected_variant(const int & variant) {
