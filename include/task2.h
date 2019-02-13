@@ -10,8 +10,8 @@ using namespace std;
 const string DOUBLE_X = "Phi(x) = 2 * x";
 const string X_POW_2 = "Phi(x) = pow(x, 2)";
 const string X_DIVIDE_3 = "Phi(x) = x/3";
-const string Z_LESS_THAN_0 = "x = z2 - z";
-const string Z_MORE_OR_EQUAL_TO_0 = "x = ln(pow(z, 2) - 2)";
+const string Z_LESS_THAN_0 = " z < 0: x = z2 - z";
+const string Z_MORE_OR_EQUAL_TO_0 = "z >= 0: x = ln(pow(z, 2) - 2)";
 
 typedef double (*double_function_ptr)(const double &);
 
