@@ -15,4 +15,4 @@
 
 **Задание №4. (task4i)** Написать программу вычисления функции y(x)  для всех различных вариантов входных параметров. Ввести с клавиатуры x, вывести значения функции для всех вариантов.
 
-![fourth individual task](img src="https://i.ibb.co/M6q65P4/Screenshot-from-2019-02-19-19-51-01.png)
+![fourth individual task](https://i.ibb.co/M6q65P4/Screenshot-from-2019-02-19-19-51-01.png)
