@@ -38,5 +38,9 @@ double radius(const Point & point) {
 bool is_point_in_area(const Point & point) {
   double area_radius = radius(X_RANGE, Y_RANGE);
   double point_radius = radius(point);
-  return point_radius >= area_radius;
+  bool result = false;
+  result = result || point_radius >= area_radius;
+  result = result && (point.x > -2 && point.x < 2);
+  result = result && (point.y > -1 && point.x < 1);
+  return result;
 }
