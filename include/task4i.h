@@ -1,0 +1,4 @@
+#ifndef LAB2_INCLUDE_TASK4I_H
+#define LAB2_INCLUDE_TASK4I_H
+
+#endif
